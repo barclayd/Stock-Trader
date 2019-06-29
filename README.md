@@ -1,4 +1,6 @@
-# stocker-trader
+# Stock Trader
+
+Stock trading platform to practise and track buying and selling shares over a period. 
 
 ## Project setup
 ```
